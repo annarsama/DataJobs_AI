@@ -3,5 +3,12 @@ This project is part of an educative course on text mining from the Master 2 SIS
 
 ## Description
 ## The folders
+
+The first folder (link) represents the web scraping of the different job offers from the websites and API.
+
+The second folder (link) represents the extraction, transformation (cleaning/normalisation of the different columns and feature engineering) and then the loading into a data warehouse created with SQLite. 
+
+The third folder includes the Docker image of our app together with the different files (in case the user want to do it without Docker).
+
 ## How to install the app? 
 
