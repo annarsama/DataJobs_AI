@@ -15,7 +15,7 @@ The first folder (link) represents the web scraping of the different job offers 
 
 The second folder (link) represents the extraction, transformation (cleaning/normalisation of the different columns and feature engineering) and then the loading into a data warehouse created with SQLite. 
 
-The third folder includes the Docker image of our app together with the different files (in case the user want to do it without Docker).
+The third folder includes the app's files and the necessary to construct a Docker image.
 
 ## How to install the app? 
 
