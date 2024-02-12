@@ -16,5 +16,5 @@ The [first folder](https://github.com/cvarrei/DataJobs_AI/tree/main/Application)
 
 The [second folder](https://github.com/cvarrei/DataJobs_AI/tree/main/ETL%20%26%20DataWarehouse%20Management) represents the extraction, transformation (cleaning/normalisation of the different columns and feature engineering) and then the loading into a data warehouse created with SQLite. 
 
-The [third folder](https://github.com/cvarrei/DataJobs_AI/tree/main/Web%20Scraping)https://github.com/cvarrei/DataJobs_AI/tree/main/Web%20Scraping includes the web scrapping files for the job-offers. 
+The [third folder](https://github.com/cvarrei/DataJobs_AI/tree/main/Web%20Scraping) includes the web scrapping files for the job-offers. 
 
