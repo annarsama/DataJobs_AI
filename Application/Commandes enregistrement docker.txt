@@ -1,0 +1,7 @@
+Commande pour créer une image Docker à partir des fichiers de l'application: 
+
+docker build -t datajobs_ai:0.1 ./
+
+Commande pour expoter l'image docker en un fichier .tar en local:
+
+docker save -o datajobs_ai.tar datajobs_ai:0.1
